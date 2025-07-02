@@ -1,0 +1,10 @@
+Bugtracker key notes
+EventQuery.invokeLater (Thread used work smoothly without any overlapping)
+from main.java it goes to homepage.java
+
+there are button placed for signup ,login info exit
+
+each button has a specific function performed by .actionlister 
+
+the signup ,login info function are written in the AuthGUI.java
+where signup saves the data in table max timeout 5(i.e 5 attempt it since we are generating id by random no)
