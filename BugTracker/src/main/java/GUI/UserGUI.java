@@ -215,7 +215,7 @@ public class UserGUI {
     btnBack.setBounds(175, 210, 125, 25);
     bgLabel.add(btnBack);
 
-    ImageIcon chaticon = new ImageIcon("src/main/resources/images/chaticon.png");
+    /*ImageIcon chaticon = new ImageIcon("src/main/resources/images/chaticon.png");
     JButton btnChat = new JButton(chaticon);
     btnChat.setBounds(436, 0, 50, 50);
     bgLabel.add(btnChat);
@@ -225,7 +225,7 @@ public class UserGUI {
         ChatEntry.startChat(email);
 
       }
-    });
+    });*/
 
     ImageIcon searchicon = new ImageIcon("src/main/resources/images/searchicon.png");
     JButton btnsearch = new JButton(searchicon);
@@ -708,7 +708,7 @@ public class UserGUI {
       }
     });
 
-    ImageIcon chaticon = new ImageIcon("src/main/resources/images/chaticon.png");
+    /*ImageIcon chaticon = new ImageIcon("src/main/resources/images/chaticon.png");
     JButton btnChat = new JButton(chaticon);
     btnChat.setBounds(436, 0, 50, 50);
     bgLabel.add(btnChat);
@@ -717,7 +717,7 @@ public class UserGUI {
       public void actionPerformed(ActionEvent e) {
         ChatEntry.hostChat(email);
       }
-    });
+    });*/
 
     JButton btnViewDevs = new JButton("View Devs");
     btnViewDevs.setBounds(175, 210, 125, 25);
