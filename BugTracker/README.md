@@ -25,8 +25,7 @@ The Bug Tracking System project accommodates multiple user roles, including test
   - Interact with developers, assign bugs to specific developers.
   - Attach images to bug reports within the specified size limit (5MB).
   - Send email notifications to assigned developers with comprehensive bug details.
-  - Host chat rooms for direct communication with developers.
-
+  
 
 ![Tester View](https://github.com/jayalaxmimudaliar/BugTracker-System/blob/master/BugTracker/videos/tester.gif)
   ###### Tester View & Authentication pages
@@ -34,7 +33,6 @@ The Bug Tracking System project accommodates multiple user roles, including test
 ### Developer 🧑‍💻
   - View all bugs assigned to them.
   - Update the status of assigned bugs as they progress in resolving them.
-  - Participate in chat rooms by entering the required IP address and port number for direct communication with testers.
   - Search for relevant information and access useful links related to bug fixing.
 
 ![Developer View](https://github.com/jayalaxmimudaliar/BugTracker-System/blob/master/BugTracker/videos/Developer.gif)
