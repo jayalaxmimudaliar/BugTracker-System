@@ -57,9 +57,14 @@ public class Developer {
               JOptionPane.WARNING_MESSAGE);
           return;
         }
-        // Remove the first two elements from the list - mostly contain adds so
-        Results.remove(0);
-        Results.remove(0);
+        if (Results.size() < 2) {
+        	  JOptionPane.showMessageDialog(SearchFrame, "Not enough search results.\nCheck your internet or VPN.", "Warning", JOptionPane.WARNING_MESSAGE);
+        	  return;
+        	}
+
+        	Results.remove(0);
+        	Results.remove(0);
+
         
         StringBuilder htmlContent = new StringBuilder();
         int linkCount = 0;
