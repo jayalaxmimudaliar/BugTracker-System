@@ -13,7 +13,7 @@ Furthermore to the mentioned functionalities, the project is structured as a Mav
 
 With Maven, the project can easily manage and resolve external libraries and dependencies required by the Java Swing GUI and the MySQL database integration. Maven's dependency management simplifies the process of adding, updating, and resolving library dependencies, ensuring that the project has all the necessary components for successful compilation and execution.
 
-![Page Flow](https://github.com/AntonAshraf/BugTrackingSystem/blob/main/src/main/resources/Documentations/Page%20Flow.png)
+![Page Flow](https://github.com/jayalaxmimudaliar/BugTracker-System/blob/master/BugTracker/src/main/resources/Documentations/Page%20Flow.png)
 ###### Complete page flow for the application
 
 ## Users 
@@ -28,7 +28,7 @@ The Bug Tracking System project accommodates multiple user roles, including test
   - Host chat rooms for direct communication with developers.
 
 
-![Tester View](https://github.com/AntonAshraf/BugTrackingSystem/blob/main/src/main/resources/Videos/Tester.gif)
+![Tester View](https://github.com/jayalaxmimudaliar/BugTracker-System/blob/master/BugTracker/videos/tester.gif)
   ###### Tester View & Authentication pages
 
 ### Developer 🧑‍💻
@@ -37,7 +37,7 @@ The Bug Tracking System project accommodates multiple user roles, including test
   - Participate in chat rooms by entering the required IP address and port number for direct communication with testers.
   - Search for relevant information and access useful links related to bug fixing.
 
-![Developer View](https://github.com/AntonAshraf/BugTrackingSystem/blob/main/src/main/resources/Videos/Developer.gif)
+![Developer View](https://github.com/jayalaxmimudaliar/BugTracker-System/blob/master/BugTracker/videos/Developer.gif)
   ###### Developer View
 
 
@@ -46,26 +46,17 @@ The Bug Tracking System project accommodates multiple user roles, including test
   - Calculate performance metrics for testers and developers based on parameters like the number of issued and solved bugs, difficulty, and bug level.
   - Generate reports on bug status, performance metrics, and other relevant data.
 
-![Project Manager View](https://github.com/AntonAshraf/BugTrackingSystem/blob/main/src/main/resources/Videos/Project%20Manager.gif)
+![Project Manager View](https://github.com/jayalaxmimudaliar/BugTracker-System/blob/master/BugTracker/videos/projmanager.gif)
   ###### Project Manager View 
 
 ### Admin 🦸
   - View, add, update, and delete user accounts.
   - Have elevated privileges and complete control over user management in the system.
 
-![Admin View](https://github.com/AntonAshraf/BugTrackingSystem/blob/main/src/main/resources/Videos/Admin.gif)
+![Admin View](https://github.com/jayalaxmimudaliar/BugTracker-System/blob/master/BugTracker/videos/admin.gif)
   ###### Admin View
 
 ##  Conclusion 🔚
 By combining these features and technologies, the Bug Tracking System project offers a robust, user-friendly, and efficient solution for bug tracking and management. It enhances software quality, productivity, and communication among stakeholders, making it an ideal choice for an object-oriented programming course project.
 
-You can try the application now from [here](https://bit.ly/BugTrackingSystemApplication) after downloading [Java](https://www.oracle.com/eg/java/technologies/downloads/#jdk20-windows)!!
 
----
-### Collaborators 🤝
-
-- [Ismail Fakhr](https://github.com/Ismailfakhr)
-- [Alaa Imam](https://github.com/AlaaImam)
-- [Ahmed Kamal](https://github.com/AhmadKamal0)
-- [Mahmoud Hany](https://github.com/MahmoudHanyFathalla)
-- [Anton Ashraf](https://github.com/AntonAshraf)
